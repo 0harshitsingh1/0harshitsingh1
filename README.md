@@ -22,4 +22,4 @@ Third-year Computer Science student with a strong foundation in Java and Data St
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Oharshitsingh1&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://nirzak-streak-stats.vercel.app/?user=Oharshitsingh1&theme=dark&hide_border=false&ring=79ff97&fire=79ff97&currStreakLabel=79ff97)
