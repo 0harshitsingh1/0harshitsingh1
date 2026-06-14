@@ -222,7 +222,7 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 # 🤝 Let's Connect
 
-[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/abhayadityars/) [![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](https://mail.google.com/mail/?view=cm&to=abhayaditya1875@gmail.com)
+<a href="https://www.linkedin.com/in/abhayadityars/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/></a> <a href="https://mail.google.com/mail/?view=cm&to=abhayaditya1875@gmail.com" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"/></a>
 
 </div>
 
