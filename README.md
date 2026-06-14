@@ -218,15 +218,11 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](YOUR_LINKEDIN_URL)
+# 🤝 Let's Connect
 
-[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](YOUR_INSTAGRAM_URL)
-
-[![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](www.linkedin.com/in/abhayadityars) [![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:abhayaditya1875@gmail.com)
 
 </div>
 
