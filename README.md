@@ -208,11 +208,21 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 ---
 
-# 🐍 Contributions Snake
+# 👾 Contributions Pacman
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph.svg">
+
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph.svg">
+
+</picture>
 
 </div>
 
