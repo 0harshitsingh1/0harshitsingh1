@@ -38,7 +38,7 @@ class AbhayAditya:
 
     def future_goals(self):
         return "Creating impactful digital experiences through design and development"
-````
+```
 
 ### 🚀 Quick Introduction
 
@@ -68,13 +68,13 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <summary><b>🎨 Design & UI/UX</b></summary>
 <br>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge\&logo=adobexd\&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Rive](https://img.shields.io/badge/Rive-000000?style=for-the-badge)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge\&logo=miro\&logoColor=black)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 
 </details>
 
@@ -82,11 +82,11 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <summary><b>💻 Frontend Development</b></summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </details>
 
@@ -94,9 +94,9 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <summary><b>☕ Programming & Development</b></summary>
 <br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
 
@@ -104,10 +104,10 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <summary><b>☁️ Cloud & Tools</b></summary>
 <br>
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
 
@@ -115,8 +115,8 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <summary><b>🚀 Creative & Productivity</b></summary>
 <br>
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-FF6B6B?style=for-the-badge)
 ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge)
 
@@ -202,7 +202,27 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayioadi\&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayioadi&theme=radical)
+
+</div>
+
+---
+
+# 👾 Contributions Pacman
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph.svg">
+
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph.svg">
+
+</picture>
 
 </div>
 
@@ -228,7 +248,7 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 *"Designing experiences, developing solutions, and continuously learning."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhayioadi\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=abhayioadi&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ⭐ Thanks for visiting my profile!
 
