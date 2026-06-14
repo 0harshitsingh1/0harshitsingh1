@@ -35,11 +35,20 @@ jobs:
                   # 1. Loop forever
                   svg = re.sub(r'repeatCount="[^"]*"', 'repeatCount="indefinite"', svg)
                   svg = re.sub(
-                      r'(<animate\w*\b(?![^>]*repeatCount)[^>]*?)(/?>)',
+                      r'(<animate\w*\b(?![^>]*repeatCount)(?![^>]*attributeName="(?:fill|stroke)")[^>]*?)(/?>)',
                       r'\1 repeatCount="indefinite"\2',
                       svg,
                   )
-                  svg = re.sub(r'\s*fill="freeze"', '', svg)
+                  def strip_freeze(m):
+                      tag = m.group(0)
+                      attr = re.search(r'attributeName="([^"]+)"', tag)
+                      if attr and attr.group(1).lower() in ("fill", "stroke"):
+                          return tag  # keep freeze: this sets/holds the cell's real color
+                      return re.sub(r'\s*fill="freeze"', '', tag)
+
+                  for elem in ("animate", "animateTransform", "set", "animateColor"):
+                      svg = re.sub(rf'<{elem}\b[^>]*?/>', strip_freeze, svg)
+                      svg = re.sub(rf'<{elem}\b[^>]*?>.*?</{elem}>', strip_freeze, svg, flags=re.S)
 
                   # 1b. Cover CSS-driven movement too (animation: ... in <style> rules
                   #     or inline style="" attributes) -> force infinite looping.
@@ -88,9 +97,6 @@ jobs:
                       if name == "display" and end == "none":
                           return ""
                       if name == "visibility" and end in ("hidden", "collapse"):
-                          return ""
-                      # any fill/stroke recolor of a static cell -> remove, keep original static color
-                      if name in ("fill", "stroke") and re.search(r'<animate\b', tag):
                           return ""
                       # scale transform -> 0
                       if name == "transform":
