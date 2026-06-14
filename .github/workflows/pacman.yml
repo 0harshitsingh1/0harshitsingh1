@@ -13,18 +13,10 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate light Pacman
+      - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: abhayioadi
-
-      - name: Prepare output
-        run: |
-          mkdir -p dist
-          # Copy the generated pacman file to dist/
-          cp pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
-          # Also copy it as the dark version so the links don't break, since the exact action for dark theme isn't standardized.
-          cp pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
