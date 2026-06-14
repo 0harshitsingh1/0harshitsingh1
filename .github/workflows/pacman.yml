@@ -35,11 +35,35 @@ jobs:
                   # 1. Loop forever
                   svg = re.sub(r'repeatCount="[^"]*"', 'repeatCount="indefinite"', svg)
                   svg = re.sub(
-                      r'(<animate(?:Transform)?\b(?![^>]*repeatCount)[^>]*?)(/?>)',
+                      r'(<animate\w*\b(?![^>]*repeatCount)[^>]*?)(/?>)',
                       r'\1 repeatCount="indefinite"\2',
                       svg,
                   )
                   svg = re.sub(r'\s*fill="freeze"', '', svg)
+
+                  # 1b. Cover CSS-driven movement too (animation: ... in <style> rules
+                  #     or inline style="" attributes) -> force infinite looping.
+                  def fix_css_block(m):
+                      body = m.group(0)
+                      if 'animation-iteration-count' in body:
+                          return re.sub(r'animation-iteration-count\s*:\s*[^;}]+',
+                                         'animation-iteration-count: infinite', body)
+                      if re.search(r'\banimation\s*:', body) and 'infinite' not in body:
+                          return body[:-1] + ';animation-iteration-count:infinite' + body[-1]
+                      return body
+
+                  svg = re.sub(r'\{[^{}]*\}', fix_css_block, svg)
+
+                  def fix_inline_style(m):
+                      style = m.group(1)
+                      if 'animation-iteration-count' in style:
+                          style = re.sub(r'animation-iteration-count\s*:\s*[^;"]+',
+                                          'animation-iteration-count: infinite', style)
+                      elif re.search(r'\banimation\s*:', style) and 'infinite' not in style:
+                          style = style.rstrip(';') + ';animation-iteration-count:infinite'
+                      return f'style="{style}"'
+
+                  svg = re.sub(r'style="([^"]*)"', fix_inline_style, svg)
 
                   # 2. No destruction: strip any animation that hides, shrinks,
                   #    or recolors a cell (the "eating" effect), in any common form.
