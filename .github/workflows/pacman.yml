@@ -32,43 +32,66 @@ jobs:
           path = Path(sys.argv[1])
           svg = path.read_text(encoding="utf-8")
 
-          # 1. Loop forever
-          svg = re.sub(r'repeatCount="[^"]*"', 'repeatCount="indefinite"', svg)
-          svg = re.sub(
-              r'(<animate(?:Transform)?\b(?![^>]*repeatCount)[^>]*?)(/?>)',
-              r'\1 repeatCount="indefinite"\2',
-              svg,
-          )
-          svg = re.sub(r'\s*fill="freeze"', '', svg)
+          try:
+              # 1. Loop forever
+              svg = re.sub(r'repeatCount="[^"]*"', 'repeatCount="indefinite"', svg)
+              svg = re.sub(
+                  r'(<animate(?:Transform)?\b(?![^>]*repeatCount)[^>]*?)(/?>)',
+                  r'\1 repeatCount="indefinite"\2',
+                  svg,
+              )
+              svg = re.sub(r'\s*fill="freeze"', '', svg)
 
-          # 2. Don't eat the contributions: drop opacity/fill-opacity -> 0 animations
-          def strip_disappear(m):
-              tag = m.group(0)
-              if not re.search(r'attributeName="(opacity|fill-opacity)"', tag):
+              # 2. Don't eat the contributions
+              def strip_disappear(m):
+                  tag = m.group(0)
+                  if not re.search(r'attributeName="(opacity|fill-opacity)"', tag):
+                      return tag
+                  values = re.search(r'values="([^"]*)"', tag)
+                  to_val = re.search(r'to="([^"]*)"', tag)
+                  end = values.group(1).split(";")[-1].strip() if values else (to_val.group(1).strip() if to_val else None)
+                  return "" if end in ("0", "0.0", "0%") else tag
+
+              svg = re.sub(r'<animate\b[^>]*?/>', strip_disappear, svg)
+              svg = re.sub(r'<animate\b[^>]*?>.*?</animate>', strip_disappear, svg, flags=re.S)
+
+              # 3. Black background (handle ' and " quotes, attrs + CSS)
+              WHITE = r'(#fff(?:fff)?|white|rgb\(\s*255\s*,\s*255\s*,\s*255\s*\))'
+              for q in ('"', "'"):
+                  svg = re.sub(r'fill\s*=\s*' + q + r'\s*' + WHITE + r'\s*' + q, f'fill={q}#000000{q}', svg, flags=re.I)
+              svg = re.sub(r'(fill|background|background-color)\s*:\s*' + WHITE, r'\1:#000000', svg, flags=re.I)
+
+              # 3b. Insert opaque black backdrop as first element inside <svg ...>
+              m = re.search(r'<svg\b[^>]*>', svg)
+              if m:
+                  svg = svg[:m.end()] + '<rect x="0" y="0" width="100%" height="100%" fill="#000000"/>' + svg[m.end():]
+
+              # 3c. Force ANY pre-existing full-canvas rect (any fill) to black too,
+              #     in case it's drawn after our backdrop and would cover it.
+              dims = re.search(r'<svg\b[^>]*\bwidth="(\d+(?:\.\d+)?)"[^>]*\bheight="(\d+(?:\.\d+)?)"', svg)
+              w, h = (dims.group(1), dims.group(2)) if dims else (None, None)
+
+              def force_full_rect_black(rm):
+                  tag = rm.group(0)
+                  rw = re.search(r'width\s*=\s*["\'](\S+?)["\']', tag)
+                  rh = re.search(r'height\s*=\s*["\'](\S+?)["\']', tag)
+                  if not rw or not rh:
+                      return tag
+                  full = rw.group(1) in ("100%", w) and rh.group(1) in ("100%", h)
+                  if not full:
+                      return tag
+                  if 'fill=' in tag:
+                      tag = re.sub(r'fill\s*=\s*["\'][^"\']*["\']', 'fill="#000000"', tag)
+                  else:
+                      tag = tag[:-1].rstrip("/") + ' fill="#000000"/>' if tag.endswith("/>") else tag.replace(">", ' fill="#000000">', 1)
                   return tag
-              values = re.search(r'values="([^"]*)"', tag)
-              to_val = re.search(r'to="([^"]*)"', tag)
-              end = values.group(1).split(";")[-1].strip() if values else (to_val.group(1).strip() if to_val else None)
-              return "" if end in ("0", "0.0", "0%") else tag
 
-          svg = re.sub(r'<animate\b[^>]*?/>', strip_disappear, svg)
-          svg = re.sub(r'<animate\b[^>]*?>.*?</animate>', strip_disappear, svg, flags=re.S)
+              svg = re.sub(r'<rect\b[^>]*/?>', force_full_rect_black, svg)
 
-          # 3. Black background
-          WHITE = r'(#fff(?:fff)?|white|rgb\(\s*255\s*,\s*255\s*,\s*255\s*\))'
-
-          # 3a. Neutralize any existing white fills/backgrounds, in attrs and CSS
-          svg = re.sub(r'fill\s*=\s*"(\s*' + WHITE + r'\s*)"', 'fill="#000000"', svg, flags=re.I)
-          svg = re.sub(r'(fill|background|background-color)\s*:\s*' + WHITE, r'\1:#000000', svg, flags=re.I)
-
-          # 3b. Force an opaque black rect behind everything (handles transparent SVGs)
-          m = re.search(r'<svg\b[^>]*>', svg)
-          if m and '__bg_rect_added__' not in svg:
-              insert_at = m.end()
-              svg = svg[:insert_at] + '<rect x="0" y="0" width="100%" height="100%" fill="#000000"/>' + svg[insert_at:]
-
-          path.write_text(svg, encoding="utf-8")
-          print(f"Patched {path}")
+              path.write_text(svg, encoding="utf-8")
+              print(f"Patched {path}")
+          except Exception as e:
+              print(f"WARNING: post-processing failed, pushing unmodified SVG: {e}")
           PYEOF
 
       - name: push pacman-contribution-graph.svg to the output branch
