@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Abhay%20Aditya%20R%20S&fontSize=55&fontAlignY=38&desc=UI/UX%20Designer%20•%20Frontend%20Engineer%20•%20Java%20Developer&descAlignY=60&descSize=22&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,100:2c2c2c&text=Abhay%20Aditya%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20•%20Frontend%20Engineer%20•%20Java%20Developer&descAlignY=60&descSize=22&descColor=cccccc&animation=twinkling"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
@@ -183,15 +183,15 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhayioadi&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhayioadi&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayioadi&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayioadi&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhayioadi&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=abhayioadi&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -201,7 +201,17 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayioadi\&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayioadi&theme=radical)
+
+</div>
+
+---
+
+# 👾 Pacman Contribution Graph
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph.svg)
 
 </div>
 
@@ -234,4 +244,3 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
-
