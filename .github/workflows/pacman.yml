@@ -13,14 +13,21 @@ jobs:
       contents: write
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate light Pacman
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: abhayioadi
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Prepare output
+        run: |
+          mkdir -p dist
+          # Copy the generated pacman file to dist/
+          cp pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
+          # Also copy it as the dark version so the links don't break, since the exact action for dark theme isn't standardized.
+          cp pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
