@@ -211,7 +211,7 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph.svg)
+![](https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph-dark.svg)
 
 </div>
 
