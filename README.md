@@ -1,6 +1,7 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,100:2c2c2c&text=Abhay%20Aditya%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20•%20Frontend%20Engineer%20•%20Java%20Developer&descAlignY=60&descSize=22&descColor=cccccc&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0a0a2e,100:0077b6&text=Abhay%20Aditya%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20•%20Frontend%20Engineer%20•%20Java%20Developer&descAlignY=60&descSize=22&descColor=90e0ef&animation=twinkling"/>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
