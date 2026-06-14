@@ -23,7 +23,7 @@ jobs:
         with:
           github_user_name: abhayioadi
 
-      - name: make pacman loop forever and stop eating/destroying contributions
+      - name: make pacman loop forever
         run: |
           python3 - << 'PYEOF'
           import re
@@ -39,6 +39,7 @@ jobs:
                       r'\1 repeatCount="indefinite"\2',
                       svg,
                   )
+
                   def strip_freeze(m):
                       tag = m.group(0)
                       attr = re.search(r'attributeName="([^"]+)"', tag)
@@ -73,41 +74,6 @@ jobs:
                       return f'style="{style}"'
 
                   svg = re.sub(r'style="([^"]*)"', fix_inline_style, svg)
-
-                  # 2. No destruction: strip any animation that hides, shrinks,
-                  #    or recolors a cell (the "eating" effect), in any common form.
-                  def strip_destruction(m):
-                      tag = m.group(0)
-                      attr = re.search(r'attributeName="([^"]+)"', tag)
-                      if not attr:
-                          return tag
-                      name = attr.group(1).lower()
-
-                      values = re.search(r'values="([^"]*)"', tag)
-                      to_val = re.search(r'\bto="([^"]*)"', tag)
-                      end = values.group(1).split(";")[-1].strip() if values else (to_val.group(1).strip() if to_val else None)
-
-                      # opacity / fill-opacity -> 0  (fade out)
-                      if name in ("opacity", "fill-opacity") and end in ("0", "0.0", "0%"):
-                          return ""
-                      # size attrs -> 0  (shrink to nothing)
-                      if name in ("r", "rx", "ry", "width", "height") and end in ("0", "0.0", "0px"):
-                          return ""
-                      # visibility/display toggles
-                      if name == "display" and end == "none":
-                          return ""
-                      if name == "visibility" and end in ("hidden", "collapse"):
-                          return ""
-                      # scale transform -> 0
-                      if name == "transform":
-                          ttype = re.search(r'type="scale"', tag)
-                          if ttype and end and re.fullmatch(r'0(?:[\s,]+0)?', end.strip()):
-                              return ""
-                      return tag
-
-                  for elem in ("animate", "animateTransform", "set"):
-                      svg = re.sub(rf'<{elem}\b[^>]*?/>', strip_destruction, svg)
-                      svg = re.sub(rf'<{elem}\b[^>]*?>.*?</{elem}>', strip_destruction, svg, flags=re.S)
 
                   path.write_text(svg, encoding="utf-8")
                   print(f"Patched {path}")
