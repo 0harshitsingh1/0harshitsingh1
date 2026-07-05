@@ -31,7 +31,7 @@ I look at digital interfaces through the lens of a **Product Strategist**. I don
 *   **Design Systems:** Mastering atomic design principles and tokenized component libraries for frictionless handoffs.
 *   **Spatial & 3D Web:** Experimenting with immersive interactions using Spline and interactive vector assets in Rive.
 *   **Frontend Prototyping:** Bringing mockups to life via high-fidelity React and Tailwind CSS sandboxes to test real-world usability.
-````
+---
 
 ### 🚀 Quick Introduction
 
