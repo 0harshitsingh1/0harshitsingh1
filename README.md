@@ -13,17 +13,26 @@
 
 # 📐 Inside the Design Studio
 
-```javascript
-const abhayAditya = {
-  role: "Product Designer & UI/UX Engineer",
-  philosophy: "Form follows function, but delight drives adoption.",
-  coreProcess: ["User Research", "Wireframing", "Interactive Prototyping", "Design Systems"],
-  tools: {
-    sandbox: ["Figma", "Spline", "Rive"],
-    canvas: ["HTML5", "Tailwind CSS", "React"]
-  },
-  readyToDeploy: true
-};
+# 🗺️ Product & Interaction Design
+
+> **"A product isn't just a set of features; it’s an ecosystem of human experiences."**
+> I am a Product Designer who blends deep user psychology with precision UI engineering to craft digital experiences that feel intuitive, accessible, and effortlessly fluid.
+
+### 🚀 The Design Approach
+
+I look at digital interfaces through the lens of a **Product Strategist**. I don't just draw layouts—I architect design ecosystems that balance business objectives with delightful user interactions.
+
+*   **Human-Centered Design:** Rooted in empathy, user research, and cognitive psychology to solve complex user friction points.
+*   **Design Architecture:** Building scalable, component-driven design systems in Figma that streamline the transition from concept to production.
+*   **Interaction & Motion:** Obsessed with micro-interactions, responsive spatial layouts, and digital storytelling that make products feel responsive and alive.
+
+---
+
+### ⚡ Current Creative Focus
+
+*   **Design Systems:** Mastering atomic design principles and tokenized component libraries for frictionless handoffs.
+*   **Spatial & 3D Web:** Experimenting with immersive interactions using Spline and interactive vector assets in Rive.
+*   **Frontend Prototyping:** Bringing mockups to life via high-fidelity React and Tailwind CSS sandboxes to test real-world usability.
 ````
 
 ### 🚀 Quick Introduction
