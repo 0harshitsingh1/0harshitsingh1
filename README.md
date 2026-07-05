@@ -11,33 +11,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-# 👨‍💻 About Me
+# 📐 Inside the Design Studio
 
-```python
-class AbhayAditya:
-    def __init__(self):
-        self.name = "Abhay Aditya R S"
-        self.role = "UI/UX Designer | Frontend Engineer | Java Developer"
-        self.education = "Engineering Student"
-        self.interests = [
-            "UI/UX Design",
-            "Frontend Development",
-            "Java Development",
-            "Cloud Computing",
-            "Web Technologies",
-            "Creative Problem Solving"
-        ]
-
-    def current_focus(self):
-        return {
-            "designing": "Modern User Experiences",
-            "building": "Responsive Web Applications",
-            "learning": "Advanced UI/UX & Frontend Technologies",
-            "exploring": "AI-Powered Design Workflows"
-        }
-
-    def future_goals(self):
-        return "Creating impactful digital experiences through design and development"
+```javascript
+const abhayAditya = {
+  role: "Product Designer & UI/UX Engineer",
+  philosophy: "Form follows function, but delight drives adoption.",
+  coreProcess: ["User Research", "Wireframing", "Interactive Prototyping", "Design Systems"],
+  tools: {
+    sandbox: ["Figma", "Spline", "Rive"],
+    canvas: ["HTML5", "Tailwind CSS", "React"]
+  },
+  readyToDeploy: true
+};
 ````
 
 ### 🚀 Quick Introduction
