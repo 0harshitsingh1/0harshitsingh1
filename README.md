@@ -11,9 +11,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-# 📐 Inside the Design Studio
-
-# 🗺️ Product & Interaction Design
+# 📐 Inside my Design Studio
 
 > **"A product isn't just a set of features; it’s an ecosystem of human experiences."**
 > I am a Product Designer who blends deep user psychology with precision UI engineering to craft digital experiences that feel intuitive, accessible, and effortlessly fluid.
