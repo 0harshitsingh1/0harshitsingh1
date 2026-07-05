@@ -25,7 +25,7 @@ I look at digital interfaces through the lens of a **Product Strategist**. I don
 *   **Interaction & Motion:** Obsessed with micro-interactions, responsive spatial layouts, and digital storytelling that make products feel responsive and alive.
 
 ---
-
+---
 ### ⚡ Current Creative Focus
 
 *   **Design Systems:** Mastering atomic design principles and tokenized component libraries for frictionless handoffs.
