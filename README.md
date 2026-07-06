@@ -156,40 +156,28 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <th>Highlights</th>
 </tr>
 <tr>
-<td><strong>🌌 Anant Portfolio</strong></td>
-<td>High-fidelity personal portfolio with deep space aesthetic</td>
-<td>HTML, CSS, GSAP, Vanilla JS</td>
+<td><strong>TextInsight</strong></td>
+<td>Intelligent AI text analysis system.</td>
+<td>Python, ML, React</td>
 <td>✨ 3D Animations • 🎨 Glassmorphism • 🚀 Interactive</td>
 </tr>
 <tr>
-<td><strong>⌨️ CampusType</strong></td>
-<td>Modern typing test platform for WPM & typing efficiency</td>
-<td>HTML, CSS, JavaScript</td>
+<td><strong>SpaceTechHub</strong></td>
+<td>Curated hub for space technology.</td>
+<td>HTML, CSS, JavaScript , API</td>
 <td>📊 Real-time Stats • 🎯 Responsive • ⚡ Smooth UX</td>
 </tr>
 <tr>
-<td><strong>🏠 ShyamNest PG</strong></td>
-<td>Room accommodation platform for students</td>
-<td>HTML, CSS, JavaScript</td>
-<td>🔍 Search Features • 📱 Mobile Friendly • 💻 Full Stack</td>
+<td><strong>UI/UX for an Travel App</strong></td>
+<td>Modernizing city-wide transit experiences.</td>
+<td>Figma, Wireframing, Prototyping</td>
+<td>Premium UI • 📱 Mobile Friendly • 💻Design</td>
 </tr>
 <tr>
-<td><strong>🍽️ The Taste.io</strong></td>
-<td>Food fest ordering and coupon platform</td>
-<td>HTML, CSS</td>
-<td>🎨 Modern UI • 📦 Order Management • 🎯 Event-Based</td>
-</tr>
-<tr>
-<td><strong>🎮 Simon Says</strong></td>
-<td>Interactive memory game with smooth animations</td>
-<td>HTML, CSS, JavaScript</td>
-<td>🎯 Game Logic • 🎨 Visual Feedback • 🎬 Animations</td>
-</tr>
-<tr>
-<td><strong>🛠️ Trifecta 3.0</strong></td>
-<td>DIY Platform for legal, financial & lifestyle services</td>
-<td>HTML, CSS, JavaScript</td>
-<td>📱 Comprehensive • 🎯 Multi-Service • 🚀 Enterprise Level</td>
+<td><strong>Forest Fire Detection System</strong></td>
+<td>Sensor-based real-time wildfire monitoring.</td>
+<td>Iot, Sensors, Arduino</td>
+<td>🎨 Modern UI • 🔥 Real Time Detection • 🎯 Sensor</td>
 </tr>
 </table>
 
