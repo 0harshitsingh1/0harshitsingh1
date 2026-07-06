@@ -36,7 +36,7 @@ I look at digital interfaces through the lens of a **Product Strategist**. I don
 
 ### 🚀 Quick Introduction
 
-I'm **Abhay Aditya R S**, a passionate **UI/UX Designer**, **Frontend Engineer**, and **Java Developer** who enjoys transforming ideas into meaningful digital experiences.
+I'm **Abhay Aditya R S**, a passionate **UI/UX Designer**, **Product Designer**, and **Frontend Developer** who enjoys transforming ideas into meaningful digital experiences.
 
 * 🎨 Designing intuitive user experiences
 * 💻 Building modern web applications
