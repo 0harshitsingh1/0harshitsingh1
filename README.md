@@ -25,15 +25,7 @@ I look at digital interfaces through the lens of a **Product Strategist**. I don
 *   **Human-Centered Design:** Rooted in empathy, user research, and cognitive psychology to solve complex user friction points.
 *   **Design Architecture:** Building scalable, component-driven design systems in Figma that streamline the transition from concept to production.
 *   **Interaction & Motion:** Obsessed with micro-interactions, responsive spatial layouts, and digital storytelling that make products feel responsive and alive.
-
 ---
-### ⚡ Current Creative Focus
-
-*   **Design Systems:** Mastering atomic design principles and tokenized component libraries for frictionless handoffs.
-*   **Spatial & 3D Web:** Experimenting with immersive interactions using Spline and interactive vector assets in Rive.
-*   **Frontend Prototyping:** Bringing mockups to life via high-fidelity React and Tailwind CSS sandboxes to test real-world usability.
----
-
 ### 🚀 Quick Introduction
 
 I'm **Abhay Aditya R S**, a passionate **UI/UX Designer**, **Product Designer**, and **Frontend Developer** who enjoys transforming ideas into meaningful digital experiences.
@@ -45,7 +37,6 @@ I'm **Abhay Aditya R S**, a passionate **UI/UX Designer**, **Product Designer**,
 * 🚀 Constantly learning and innovating
 
 ---
-
 ## 🌟 Core Competencies
 
 ```
@@ -71,23 +62,26 @@ I'm **Abhay Aditya R S**, a passionate **UI/UX Designer**, **Product Designer**,
 I focus on creating clean, accessible, and user-centered interfaces that balance functionality with visual appeal.
 
 ---
-
 ## 💡 Creative Workflow
 
 ```
-Idea Generation
-     ↓
-Wireframing & Design Mockups (Figma)
-     ↓
-HTML/CSS Markup (Responsive Structure)
-     ↓
-JavaScript Interactivity & Logic
-     ↓
-GSAP & 3D Animation Implementation
-     ↓
-Testing & Optimization
-     ↓
-Deployment & Showcase
+🔍 Research & Discovery
+            ↓
+💡 Product Ideation & Strategy
+            ↓
+🗺️ User Journey Mapping
+            ↓
+✏️ Wireframing & UX Design
+            ↓
+🎨 UI Design & Design Systems
+            ↓
+⚡ Interactive Prototyping
+            ↓
+🧪 Usability Testing & Iteration
+            ↓
+🤝 Developer Collaboration & Handoff
+            ↓
+🚀 Launch, Analytics & Continuous Improvement
 ```
 
 ---
@@ -152,15 +146,52 @@ Deployment & Showcase
 </details>
 
 ---
+## 🎯 Signature Projects
 
-# 🚀 Featured Projects
-
-| Project                 | Description                            | Tech Stack            |
-| ----------------------- | -------------------------------------- | --------------------- |
-| TextInsight             | Modern responsive portfolio website    | HTML, CSS, JavaScript |
-| UI/UX Case Studies      | User research, wireframes & prototypes | Figma                 |
-| Java Projects           | Desktop and console applications       | Java                  |
-| Cloud Learning Projects | Hands-on Google Cloud projects         | Google Cloud          |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Highlights</th>
+</tr>
+<tr>
+<td><strong>🌌 Anant Portfolio</strong></td>
+<td>High-fidelity personal portfolio with deep space aesthetic</td>
+<td>HTML, CSS, GSAP, Vanilla JS</td>
+<td>✨ 3D Animations • 🎨 Glassmorphism • 🚀 Interactive</td>
+</tr>
+<tr>
+<td><strong>⌨️ CampusType</strong></td>
+<td>Modern typing test platform for WPM & typing efficiency</td>
+<td>HTML, CSS, JavaScript</td>
+<td>📊 Real-time Stats • 🎯 Responsive • ⚡ Smooth UX</td>
+</tr>
+<tr>
+<td><strong>🏠 ShyamNest PG</strong></td>
+<td>Room accommodation platform for students</td>
+<td>HTML, CSS, JavaScript</td>
+<td>🔍 Search Features • 📱 Mobile Friendly • 💻 Full Stack</td>
+</tr>
+<tr>
+<td><strong>🍽️ The Taste.io</strong></td>
+<td>Food fest ordering and coupon platform</td>
+<td>HTML, CSS</td>
+<td>🎨 Modern UI • 📦 Order Management • 🎯 Event-Based</td>
+</tr>
+<tr>
+<td><strong>🎮 Simon Says</strong></td>
+<td>Interactive memory game with smooth animations</td>
+<td>HTML, CSS, JavaScript</td>
+<td>🎯 Game Logic • 🎨 Visual Feedback • 🎬 Animations</td>
+</tr>
+<tr>
+<td><strong>🛠️ Trifecta 3.0</strong></td>
+<td>DIY Platform for legal, financial & lifestyle services</td>
+<td>HTML, CSS, JavaScript</td>
+<td>📱 Comprehensive • 🎯 Multi-Service • 🚀 Enterprise Level</td>
+</tr>
+</table>
 
 ---
 
@@ -175,29 +206,6 @@ Deployment & Showcase
 
 ---
 
-# 🏆 Experience & Achievements
-
-### Google Cloud Foundations Intern
-
-* Completed foundational cloud computing training
-* Gained practical experience with cloud services
-
-### Java Development Intern | TechOctanet Services Pvt Ltd
-
-* Worked on Java development projects
-* Improved programming and software development skills
-
-### Event Coordinator
-
-* Coordinated College E-Fest activities
-* Organized Call of Duty Tournament Events
-
-### Volunteer
-
-* QCFI Bengaluru Chapter Volunteer
-
----
-
 # 📜 Certifications
 
 | Certification                  | Organization                 |
@@ -208,7 +216,6 @@ Deployment & Showcase
 | QCFI Volunteer Certificate     | QCFI Bengaluru               |
 
 ---
-
 # 📊 GitHub Analytics
 
 
@@ -234,7 +241,7 @@ Deployment & Showcase
 
 ---
 
-# 👾 Pacman Contribution Graph
+# 👾 Contribution Graph
 
 <div align="center">
 
@@ -245,7 +252,6 @@ Deployment & Showcase
 ---
 
 <div align="center">
-
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
