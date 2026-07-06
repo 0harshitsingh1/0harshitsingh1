@@ -2,8 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:03045e,100:4361ee&text=Abhay%20Aditya%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20•%20Product%20Designer%20•%20Frontend%20Developer&descAlignY=60&descSize=22&descColor=bde0fe&animation=twinkling"/>
 
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&color=667eea&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Web+Developer;Creative+UI%2FUX+Enthusiast;Crafting+Immersive+Digital+Experiences;3D+Animations+%26+Interactive+Design" alt="Typing SVG" />
 
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
