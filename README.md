@@ -194,16 +194,6 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 ---
 
-# 📜 Certifications
-
-| Certification                  | Organization                 |
-| ------------------------------ | ---------------------------- |
-| Google Cloud Foundations       | Google                       |
-| Java Development Internship    | TechOctanet Services Pvt Ltd |
-| E-Fest Coordinator Certificate | College                      |
-| QCFI Volunteer Certificate     | QCFI Bengaluru               |
-
----
 # 📊 GitHub Analytics
 
 
