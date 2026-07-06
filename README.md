@@ -202,13 +202,10 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhayioadi&theme=radical&hide_border=true"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=abhayioadi&theme=dracula&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&stroke=667eea)
 
 </div>
+
 
 ---
 
