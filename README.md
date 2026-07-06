@@ -235,7 +235,7 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayadityars/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=web&logoColor=white)]([https://github.com/CaptainAnant/anant-portfolio](https://abhayadityars.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=web&logoColor=white)](https://abhayadityars.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayaditya1875@gmail.com)
 
 </div>
