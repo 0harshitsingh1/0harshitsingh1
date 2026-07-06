@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:03045e,100:4361ee&text=Abhay%20Aditya%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20•%20Product%20Designer%20•%20Frontend%20Developer&descAlignY=60&descSize=22&descColor=bde0fe&animation=twinkling"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&color=667eea&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Web+Developer;Creative+UI%2FUX+Enthusiast;Crafting+Immersive+Digital+Experiences;3D+Animations+%26+Interactive+Design" alt="Typing SVG" />
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -44,6 +46,22 @@ I'm **Abhay Aditya R S**, a passionate **UI/UX Designer**, **Frontend Engineer**
 
 ---
 
+## 🌟 Core Competencies
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                   DEVELOPER SKILL MATRIX                    │
+├─────────────────────────────────────────────────────────────┤
+│ Frontend Development      ████████████████░░ 90%            │
+│ UI/UX Design              ██████████████████ 100%           │
+│ Animation & Effects       ██████████████░░░░ 80%            │
+│ Responsive Design         ████████████████░░ 90%            │
+│ Product Design            ████████████████░░ 90%            │
+│ Creative Problem Solving  ███████████████░░░ 85%            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
 ## 🎯 Design Philosophy
 
 > Good design is not just about aesthetics.
@@ -54,6 +72,25 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 ---
 
+## 💡 Creative Workflow
+
+```
+Idea Generation
+     ↓
+Wireframing & Design Mockups (Figma)
+     ↓
+HTML/CSS Markup (Responsive Structure)
+     ↓
+JavaScript Interactivity & Logic
+     ↓
+GSAP & 3D Animation Implementation
+     ↓
+Testing & Optimization
+     ↓
+Deployment & Showcase
+```
+
+---
 # ⚒️ Tech Arsenal
 
 <details open>
@@ -120,7 +157,7 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 | Project                 | Description                            | Tech Stack            |
 | ----------------------- | -------------------------------------- | --------------------- |
-| Personal Portfolio      | Modern responsive portfolio website    | HTML, CSS, JavaScript |
+| TextInsight             | Modern responsive portfolio website    | HTML, CSS, JavaScript |
 | UI/UX Case Studies      | User research, wireframes & prototypes | Figma                 |
 | Java Projects           | Desktop and console applications       | Java                  |
 | Cloud Learning Projects | Hands-on Google Cloud projects         | Google Cloud          |
@@ -175,34 +212,15 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 # 📊 GitHub Analytics
 
 
-
 <div align="center">
-
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhayioadi&show_icons=true&theme=radical&hide_border=true"/>
-
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayioadi&layout=compact&theme=radical&hide_border=true"/>
-
-
 
 </div>
 
-
-
 <div align="center">
-
-
 
 <img src="https://streak-stats.demolab.com?user=abhayioadi&theme=radical&hide_border=true"/>
 
-
-
 </div>
-
-
 
 ---
 
@@ -228,16 +246,17 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <div align="center">
 
-# 🤝 Let's Connect
+## 🌐 Let's Connect & Collaborate
 
-<a href="https://www.linkedin.com/in/abhayadityars/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/></a> <a href="https://mail.google.com/mail/?view=cm&to=abhayaditya1875@gmail.com" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"/></a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayadityars/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=web&logoColor=white)]([https://github.com/CaptainAnant/anant-portfolio](https://abhayadityars.vercel.app/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayaditya1875@gmail.com)
 
 </div>
 
 ---
-
-<div align="center">
-
 ### 💡 Motto
 
 *"Designing experiences, developing solutions, and continuously learning."*
