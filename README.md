@@ -196,10 +196,7 @@ I focus on developing clean, scalable, and user-friendly applications that balan
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=0harshitsingh1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0harshitsingh1&layout=compact&theme=radical&hide_border=true" />
-
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=0harshitsingh1&theme=radical&hide_border=true" />
 
