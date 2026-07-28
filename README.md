@@ -186,6 +186,16 @@ I focus on developing clean, scalable, and user-friendly applications that balan
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0harshitsingh1/0harshitsingh1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0harshitsingh1/0harsihtsingh1/output/pacman-contribution-graph.svg">
+  <img alt="github contribution graph pacman animation" src="https://raw.githubusercontent.com/0harshitsingh1/0harshitsingh1/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/>
+
+<div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=0harshitsingh1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0harshitsingh1&layout=compact&theme=radical&hide_border=true" />
 
