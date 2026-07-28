@@ -1,8 +1,8 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:03045e,100:4361ee&text=Harshit%20Singh%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=22&descColor=bde0fe&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:03045e,100:4361ee&text=Harshit%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&descSize=22&descColor=bde0fe&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&color=667eea&center=true&vCenter=true&width=700&height=30&lines=Third-Year+Computer+Science+Student;Java+%7C+DSA+%7C+Full-Stack+Development;Building+Clean+and+Reliable+Software;Always+Learning+and+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&color=667eea&center=true&vCenter=true&width=700&height=30&lines=Java+Backend+Developer;Full-Stack+Developer;Spring+Boot;Spring+Security" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -16,7 +16,7 @@
 
 > **"Great software is not just about code; it is about solving real problems through simple, efficient, and reliable solutions."**
 >
-> I am a third-year Computer Science student with a strong foundation in Java, Data Structures, and Algorithms. I focus on building clean, scalable applications while continuously strengthening my problem-solving and development skills.
+> I am a final-year Information Science and Engineering student with a strong foundation in Java, Data Structures, and Algorithms. I focus on building clean, scalable applications while continuously strengthening my problem-solving and development skills.
 
 ### 🚀 My Development Approach
 
