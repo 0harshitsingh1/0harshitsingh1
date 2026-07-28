@@ -1,12 +1,8 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:03045e,100:4361ee&text=Harshit%20Singh%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20•%20Java%20Designer%20•%20Developer%&descAlignY=60&descSize=22&descColor=bde0fe&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:03045e,100:4361ee&text=Harshit%20Singh%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=22&descColor=bde0fe&animation=twinkling"/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&color=667eea&center=true&vCenter=true&width=700&height=30&lines=Full-Stack+Web+Developer;Creative+UI%2FUX+Enthusiast;Crafting+Immersive+Digital+Experiences;3D+Animations+%26+Interactive+Design" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&color=667eea&center=true&vCenter=true&width=700&height=30&lines=Third-Year+Computer+Science+Student;Java+%7C+DSA+%7C+Full-Stack+Development;Building+Clean+and+Reliable+Software;Always+Learning+and+Improving" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -16,91 +12,96 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-# 📐 Inside my Design Studio
+# 💻 Inside My Development Studio
 
-> **"A product isn't just a set of features; it’s an ecosystem of human experiences."**
-> I am a Product Designer who blends deep user psychology with precision UI engineering to craft digital experiences that feel intuitive, accessible, and effortlessly fluid.
+> **"Great software is not just about code; it is about solving real problems through simple, efficient, and reliable solutions."**
+>
+> I am a third-year Computer Science student with a strong foundation in Java, Data Structures, and Algorithms. I focus on building clean, scalable applications while continuously strengthening my problem-solving and development skills.
 
-### 🚀 The Design Approach
+### 🚀 My Development Approach
 
-I look at digital interfaces through the lens of a **Product Strategist**. I don't just draw layouts—I architect design ecosystems that balance business objectives with delightful user interactions.
+I approach every project with a structured problem-solving mindset: understand the requirement, design a clear solution, and build software that is functional, maintainable, and user-friendly.
 
-*   **Human-Centered Design:** Rooted in empathy, user research, and cognitive psychology to solve complex user friction points.
-*   **Design Architecture:** Building scalable, component-driven design systems in Figma that streamline the transition from concept to production.
-*   **Interaction & Motion:** Obsessed with micro-interactions, responsive spatial layouts, and digital storytelling that make products feel responsive and alive.
+- **Problem Solving & DSA:** Strengthening logical thinking through Data Structures, Algorithms, and object-oriented programming.
+- **Clean & Scalable Development:** Writing maintainable code with Java, Spring Boot, JavaScript, and modern web technologies.
+- **Full-Stack Learning:** Exploring frontend, backend, databases, REST APIs, and deployment to build complete applications.
+- **Continuous Growth:** Learning new technologies, improving coding practices, and applying skills to real-world projects.
+
 ---
+
 ### 🚀 Quick Introduction
 
-I'm **Abhay Aditya R S**, a passionate **UI/UX Designer**, **Product Designer**, and **Frontend Developer** who enjoys transforming ideas into meaningful digital experiences.
+I'm **Harshit Singh**, a third-year **Computer Science student** passionate about software development, problem-solving, and building practical digital solutions.
 
-* 🎨 Designing intuitive user experiences
-* 💻 Building modern web applications
-* ☕ Developing Java-based solutions
-* ☁️ Exploring cloud technologies
-* 🚀 Constantly learning and innovating
+- 💻 Developing clean and efficient applications with Java
+- 🧠 Strengthening problem-solving through Data Structures & Algorithms
+- 🌐 Building responsive web applications with modern technologies
+- ⚙️ Exploring backend development with Spring Boot and REST APIs
+- 🚀 Continuously learning, building, and improving
 
 ---
+
 ## 🌟 Core Competencies
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │                   DEVELOPER SKILL MATRIX                    │
 ├─────────────────────────────────────────────────────────────┤
-│ Frontend Development      ████████████████░░ 90%            │
-│ UI/UX Design              ██████████████████ 100%           │
-│ Animation & Effects       ██████████████░░░░ 80%            │
-│ Responsive Design         ████████████████░░ 90%            │
-│ Product Design            ████████████████░░ 90%            │
-│ Creative Problem Solving  ███████████████░░░ 85%            │
+│ Java & Object-Oriented Programming    ███████████████░░     │
+│ Data Structures & Algorithms          ███████████████░░     │
+│ Backend Development & REST APIs       █████████████░░░░     │
+│ Frontend Development                  ████████████░░░░░     │
+│ Databases & SQL                       ████████████░░░░░     │
+│ Problem Solving                       ███████████████░░     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
-## 🎯 Design Philosophy
 
-> Good design is not just about aesthetics.
-> It is about solving problems, improving usability,
-> and creating experiences people genuinely enjoy.
+## 🎯 Development Philosophy
 
-I focus on creating clean, accessible, and user-centered interfaces that balance functionality with visual appeal.
+> Good software is not just about writing code.
+> It is about solving real problems, improving efficiency,
+> and building experiences people can rely on.
 
----
-## 💡 Creative Workflow
-
-```
-🔍 Research & Discovery
-            ↓
-💡 Product Ideation & Strategy
-            ↓
-🗺️ User Journey Mapping
-            ↓
-✏️ Wireframing & UX Design
-            ↓
-🎨 UI Design & Design Systems
-            ↓
-⚡ Interactive Prototyping
-            ↓
-🧪 Usability Testing & Iteration
-            ↓
-🤝 Developer Collaboration & Handoff
-            ↓
-🚀 Launch, Analytics & Continuous Improvement
-```
+I focus on developing clean, scalable, and user-friendly applications that balance strong functionality with maintainable code.
 
 ---
+
+## 💡 Development Workflow
+
+```text
+🔍 Understand the Problem
+            ↓
+💡 Plan the Solution
+            ↓
+🧠 Break Down Logic & Design Algorithms
+            ↓
+✏️ Build the Application Structure
+            ↓
+💻 Write Clean, Modular Code
+            ↓
+🔗 Integrate APIs & Database
+            ↓
+🧪 Test, Debug & Optimize
+            ↓
+🤝 Collaborate & Review Code
+            ↓
+🚀 Deploy, Monitor & Improve
+```
+
+---
+
 # ⚒️ Tech Arsenal
 
 <details open>
-<summary><b>🎨 Design & UI/UX</b></summary>
+<summary><b>☕ Core Programming</b></summary>
 <br>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge\&logo=adobexd\&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-![Rive](https://img.shields.io/badge/Rive-000000?style=for-the-badge)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge\&logo=miro\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </details>
 
@@ -108,79 +109,63 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <summary><b>💻 Frontend Development</b></summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>☕ Programming & Development</b></summary>
+<summary><b>⚙️ Backend & APIs</b></summary>
 <br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring_Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & Tools</b></summary>
+<summary><b>🗄️ Databases</b></summary>
 <br>
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🚀 Creative & Productivity</b></summary>
+<summary><b>🛠️ Tools & Deployment</b></summary>
 <br>
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-FF6B6B?style=for-the-badge)
-![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </details>
 
 ---
-## 🎯 Signature Projects
+
+## 🎯 Featured Project
 
 <table>
 <tr>
 <th>Project</th>
 <th>Description</th>
-<th>Tech Stack</th>
-<th>Highlights</th>
+<th>Focus</th>
 </tr>
 <tr>
-<td><strong>TextInsight</strong></td>
-<td>Intelligent AI text analysis system.</td>
-<td>Python, ML, React</td>
-<td>✨ 3D Animations • 🎨 Glassmorphism • 🚀 Interactive</td>
-</tr>
-<tr>
-<td><strong>SpaceTechHub</strong></td>
-<td>Curated hub for space technology.</td>
-<td>HTML, CSS, JavaScript , API</td>
-<td>📊 Real-time Stats • 🎯 Responsive • ⚡ Smooth UX</td>
-</tr>
-<tr>
-<td><strong>UI/UX for an Travel App</strong></td>
-<td>Modernizing city-wide transit experiences.</td>
-<td>Figma, Wireframing, Prototyping</td>
-<td>Premium UI • 📱 Mobile Friendly • 💻Design</td>
-</tr>
-<tr>
-<td><strong>Forest Fire Detection System</strong></td>
-<td>Sensor-based real-time wildfire monitoring.</td>
-<td>Iot, Sensors, Arduino</td>
-<td>🎨 Modern UI • 🔥 Real Time Detection • 🎯 Sensor</td>
+<td><strong>Airbnb-Inspired Web Application</strong></td>
+<td>A responsive web application for browsing property listings, viewing stay details, and exploring a simple, user-friendly booking experience.</td>
+<td>Modern UI, mobile responsiveness, intuitive navigation, and reusable frontend components</td>
 </tr>
 </table>
 
@@ -188,12 +173,12 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 # 🚀 What I'm Currently Working On
 
-* Designing modern and user-friendly digital experiences
-* Building responsive portfolio and business websites
-* Developing Java-based applications and projects
-* Exploring AI-powered design workflows
-* Creating engaging frontend animations and interactions
-* Improving usability and accessibility in web products
+- Strengthening Data Structures and Algorithms skills
+- Building Java-based applications and backend projects
+- Developing responsive full-stack web applications
+- Exploring Spring Boot, REST APIs, and database integration
+- Improving problem-solving, clean coding, and software design skills
+- Learning modern frontend technologies and deployment workflows
 
 ---
 
@@ -201,12 +186,12 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhayioadi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayioadi&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0harshitsingh1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0harshitsingh1&layout=compact&theme=radical&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=abhayioadi&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=0harshitsingh1&theme=radical&hide_border=true" />
 
 </div>
 
@@ -216,37 +201,24 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph.svg">
-  <img alt="github contribution graph pacman animation" src="https://raw.githubusercontent.com/abhayioadi/abhayioadi/output/pacman-contribution-graph.svg">
-</picture>
-
-<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayioadi&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0harshitsingh1&theme=radical)
 
 </div>
 
 ---
+
 <div align="center">
 
 ## 🌐 Let's Connect & Collaborate
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayadityars/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=web&logoColor=white)](https://abhayadityars.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayaditya1875@gmail.com)
-
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-singh03)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_harshitsingh001_)
 
 ### 💡 Motto
 
-*"Designing experiences, developing solutions, and continuously learning."*
+*"Learning continuously, solving problems, and building reliable software."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhayioadi\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=0harshitsingh1&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ⭐ Thanks for visiting my profile!
 
