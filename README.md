@@ -196,8 +196,6 @@ I focus on developing clean, scalable, and user-friendly applications that balan
 
 <div align="center">
 
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=0harshitsingh1&theme=radical&hide_border=true" />
 
 </div>
