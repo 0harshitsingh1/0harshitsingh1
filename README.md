@@ -1,6 +1,9 @@
 # 💫 About Me
 
-I am a third-year Computer Science student with a strong foundation in Java, Data Structures, and Algorithms. I enjoy building efficient, clean, and scalable solutions to real-world problems. I am continuously learning, strengthening my development skills, and exploring opportunities to contribute to meaningful projects.
+Final-year Information Science and Engineering undergraduate (CGPA: 8.2/10) with a strong foundation in Core Java and
+object-oriented design. Experienced in building secure RESTful web services using Java, Spring Boot, Spring Security, and
+Hibernate/JPA, backed by MySQL/PostgreSQL. Strong in Data Structures & Algorithms and problem-solving. Seeking a
+Java Backend Developer role.
 
 ## 🌐 Connect With Me
 
