@@ -206,7 +206,7 @@ I focus on developing clean, scalable, and user-friendly applications that balan
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?0harshitsingh1&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/username=profile-details?0harshitsingh1&theme=radical)
 
 </div>
 
