@@ -167,6 +167,37 @@ I focus on developing clean, scalable, and user-friendly applications that balan
 <td>A responsive web application for browsing property listings, viewing stay details, and exploring a simple, user-friendly booking experience.</td>
 <td>Modern UI, mobile responsiveness, intuitive navigation, and reusable frontend components</td>
 </tr>
+<tr>
+  <td><strong>Slotly: Appointment Booking Engine</strong></td>
+  <td>A robust scheduling platform engineered from scratch to handle complex availability logic, automated email workflows, and timezone synchronization.</td>
+  <td>Next.js Server Actions, strict database transactions, concurrency control to prevent double-bookings, and true state consistency.</td> 
+</tr>
+<tr>
+  <td><strong>ClasSync: Classroom Management Platform</strong></td>
+  <td>A web application engineered for educational institutions to centralize attendance tracking, academic resource distribution, digital notice boards, and task management.</td>
+  <td>Modular HTML5/CSS3 architecture, component-style CSS layout, vanilla JavaScript DOM manipulation, mobile-first responsive design, and Vercel deployment.</td> 
+</tr>
+<tr>
+  <td><strong>Personal Developer Portfolio</strong></td>
+  <td>A modern, high-performance portfolio website built to highlight software engineering projects, technical skills, and professional accomplishments.</td>
+  <td>Semantic HTML5, CSS3 styling, vanilla JavaScript DOM manipulation, and responsive layout optimization.</td> 
+</tr>
+<tr>
+  <td><strong>Smart StudyMate: AI Assistant</strong></td>
+  <td>An AI-driven study platform that automates text summarization, key topic extraction, practice quiz generation, and audio synthesis from raw notes.</td>
+  <td>Hugging Face Transformers (BART model), NLTK pipelines, Python, Gradio UI, and gTTS audio integration.</td> 
+</tr>
+<tr>
+  <td><strong>ExpenseFlow: Financial Tracking App</strong></td>
+  <td>An interactive web dashboard designed for real-time expense tracking, dynamic data visualization, and streamlined personal finance management.</td>
+  <td>React, Vite environment tooling, state management, interactive data handling, and optimized frontend architecture.</td> 
+</tr>
+<tr>
+  <td><strong>Counter State</strong></td>
+  <td>A foundational React project demonstrating interactive counter mechanics, state updates, and real-time user interface rendering.</td>
+  <td>React, JavaScript, <code>useState</code> hook, event handling, and Vite tooling.</td> 
+</tr>
+
 </table>
 
 ---
