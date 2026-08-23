@@ -187,11 +187,11 @@ I focus on developing clean, scalable, and user-friendly applications that balan
   <td>An AI-driven study platform that automates text summarization, key topic extraction, practice quiz generation, and audio synthesis from raw notes.</td>
   <td>Hugging Face Transformers (BART model), NLTK pipelines, Python, Gradio UI, and gTTS audio integration.</td> 
 </tr>
-<tr>
+<!-- <tr>
   <td><strong>ExpenseFlow: Financial Tracking App</strong></td>
   <td>An interactive web dashboard designed for real-time expense tracking, dynamic data visualization, and streamlined personal finance management.</td>
   <td>React, Vite environment tooling, state management, interactive data handling, and optimized frontend architecture.</td> 
-</tr>
+</tr> -->
 <tr>
   <td><strong>Counter State</strong></td>
   <td>A foundational React project demonstrating interactive counter mechanics, state updates, and real-time user interface rendering.</td>
