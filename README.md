@@ -216,19 +216,7 @@ I focus on developing clean, scalable, and user-friendly applications that balan
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0harshitsingh1/0harshitsingh1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0harshitsingh1/0harsihtsingh1/output/pacman-contribution-graph.svg">
-  <img alt="github contribution graph pacman animation" src="https://raw.githubusercontent.com/0harshitsingh1/0harshitsingh1/output/pacman-contribution-graph.svg">
-</picture>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=0harshitsingh1&theme=radical&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=0harshitsingh1&theme=radical&hide_border=true" />
 </div>
 
 ---
