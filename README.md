@@ -215,9 +215,9 @@ I focus on developing clean, scalable, and user-friendly applications that balan
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=0harshitsingh1&theme=radical&hide_border=true" />
-</div>
+</div> -->
 
 ---
 
